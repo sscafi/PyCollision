@@ -1,1 +1,1 @@
-# PyCollision.
+# PyCollision
