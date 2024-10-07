@@ -1,5 +1,5 @@
 
-# Collision Damage Simulator.
+# Collision Damage Simulator
 
 A Python-based collision damage simulator with a graphical user interface (GUI).
 
