@@ -38,7 +38,7 @@ This software is released under the MIT License. See `LICENSE` for details.
 
 **Author**
 
-[Your Name]
+Saher
 
 **Version**
 
@@ -46,4 +46,4 @@ This software is released under the MIT License. See `LICENSE` for details.
 
 **Changelog**
 
-- 1.
+- 1.4
